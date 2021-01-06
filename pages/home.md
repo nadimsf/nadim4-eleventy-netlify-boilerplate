@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome to Nadim's Blog
+# welcome to nadim's blog
 
-This is Nadim's personal website. To read my latest blog posts, start [here](/blog). 
+To read my latest blog posts, start [here](/blog). 
 
